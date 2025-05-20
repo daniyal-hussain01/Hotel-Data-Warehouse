@@ -76,7 +76,6 @@ docker-compose up
 
 * Syed Muhammad Meesum Abbas
 * Syed Daniyal Hussain
-
   (MS Data Science – Institute of Business Administration)
 
 

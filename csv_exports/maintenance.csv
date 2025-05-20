@@ -1,0 +1,21 @@
+maintenance_id,room_id,maintenance_date,staff_id,status
+1,27,2024-06-15,9,In Progress
+2,29,2024-09-13,8,In Progress
+3,8,2024-07-04,10,Completed
+4,1,2024-11-02,6,Completed
+5,18,2024-08-27,13,Completed
+6,5,2024-08-08,12,In Progress
+7,15,2024-09-20,5,Pending
+8,6,2024-11-11,9,Pending
+9,22,2024-05-03,14,In Progress
+10,12,2024-05-05,7,Completed
+11,22,2024-08-23,14,Pending
+12,9,2024-02-07,13,Completed
+13,11,2024-04-10,13,In Progress
+14,22,2024-10-15,3,Completed
+15,15,2024-05-16,3,In Progress
+16,4,2024-08-02,13,Pending
+17,19,2024-10-10,11,In Progress
+18,18,2024-12-15,6,In Progress
+19,12,2024-12-14,5,Pending
+20,12,2024-11-20,12,Pending
